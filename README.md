@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently working on Microverse
-I'm currently learning Git and GitHub
-I'm looking to collaborate on developing isues
-I'm looking for help with solve technological isues
-Ask me about VBA
+I'm currently working on Microverse.
+I'm currently learning Git and GitHub.
+I'm looking to collaborate on developing isues.
+I'm looking for help with solve technological isues.
+Ask me about VBA.
 How to reach me: larry_villegas@hotmail.com
-Fun, happy, enthusiastic, collaborator
+
+Fun, happy, enthusiastic, collaborator.
 I like a play video games on my free time.
