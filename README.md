@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[Mi HTML/CSS Certificate](https://www.credential.net/263ccf4e-f1e2-479c-9b22-ea1e24807ff3#gs.teysvf)
+
 
 I'm currently working on Microverse.<br>
 I'm currently learning Git and GitHub.<br>
