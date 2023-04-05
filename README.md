@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 [Mi HTML/CSS Certificate](https://www.credential.net/263ccf4e-f1e2-479c-9b22-ea1e24807ff3#gs.teysvf)
 
 
-I'm currently working on Microverse.<br>
-I'm currently learning Git and GitHub.<br>
-I'm looking to collaborate on developing isues.<br>
-I'm looking for help with solve technological isues.<br>
-Ask me about VBA.<br>
-How to reach me: larry_villegas@hotmail.com<br>
+- [x] I'm currently studyng at @Microverse.<br>
+- [x] I'm currently learning Webpack Framework<br>
+- [x] I'm looking to collaborate on developing isues.<br>
+- [x] I'm looking for help with solve technological isues.<br>
+- [x] Ask me about `HTML`, `CSS`, `JavaScript`and  `VBA`<br>
+- [x] How to reach me: larry_villegas@hotmail.com<br>
 
-Fun, happy, enthusiastic, collaborator.<br>
-I like a play video games on my free time.<br>
+Fun 🎈, happy, enthusiastic, collaborator.<br>
+I like a play video games on my free time 🎮.<br>
