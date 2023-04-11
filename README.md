@@ -1,7 +1,8 @@
-### Hi there 👋
-
-<!--
-**LarryIVC/LarryIVC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I'm Larry Villegas
+<div style="display: flex">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70557153">
+   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
+</div>
 
 Here are some ideas to get you started:
 
@@ -13,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 [Mi HTML/CSS Certificate](https://www.credential.net/263ccf4e-f1e2-479c-9b22-ea1e24807ff3#gs.teysvf)
 
 
