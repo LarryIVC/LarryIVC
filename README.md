@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Larry Villegas
-<div style="display: flex">
+<div align="center" >
   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70557153">
    <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 </div>
