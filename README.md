@@ -4,6 +4,8 @@
    <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300px" heigth = "auto">
 </div> -->
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LarryIVC)](https://github.com/anuraghazra/github-readme-stats)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
