@@ -1,8 +1,8 @@
-### Hi there 👋 I'm Larry Villegas
-<div align="center" >
+<img src="Hi I'm Larry Villegas.png" width="100%" heigth="auto">
+<!-- <div align="center" >
   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70557153">
    <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300px" heigth = "auto">
-</div>
+</div> -->
 
 Here are some ideas to get you started:
 
