@@ -1,35 +1,18 @@
 <img src="Hi I'm Larry Villegas.png" width="100%" heigth="auto">
-<!-- <div align="center" >
-  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70557153">
-   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300px" heigth = "auto">
-</div> -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LarryIVC)](https://github.com/anuraghazra/github-readme-stats)
+<span><img align="right" src="./sello.png" alt="Microverse Mark" width="200px" /></span>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LarryIVC)](https://github.com/anuraghazra/github-readme-stats)
+- [x] 🔭 I'm currently studyng at @Microverse Full-Satck Developer.<br> 
+✨ MICROVERSE ✨ is a software development program that uses pair-programming and project building to teach.
+- [x] 🌱I'm from Bolivia<br>
+- [x] 👯I'm looking to collaborate on developing isues.<br>
+- [x] 🤔I'm looking for help with solve technological isues.<br>
+- [x] Ask me about `HTML`, `CSS`, `JavaScript` and  `VBA`<br>
+- [x] 💬Reach me here: [larry_villegas@hotmail.com](mailto://larry_villegas@hotmail.com)<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LarryIVC&show_icons=true&theme=gruvbox)
+⚡ Fun 🎈, happy, enthusiastic, collaborator.<br>
+I like a play video games on my free time 🎮.<br> Check [Mi Certificate](https://www.credential.net/263ccf4e-f1e2-479c-9b22-ea1e24807ff3#gs.teysvf)
+<hr>
+<span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LarryIVC&show_icons=true&locale=en" alt="LarryIVC" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-[Mi HTML/CSS Certificate](https://www.credential.net/263ccf4e-f1e2-479c-9b22-ea1e24807ff3#gs.teysvf)
-
-
-- [x] I'm currently studyng at @Microverse.<br>
-- [x] I'm currently learning Webpack Framework<br>
-- [x] I'm looking to collaborate on developing isues.<br>
-- [x] I'm looking for help with solve technological isues.<br>
-- [x] Ask me about `HTML`, `CSS`, `JavaScript`and  `VBA`<br>
-- [x] How to reach me: larry_villegas@hotmail.com<br>
-
-Fun 🎈, happy, enthusiastic, collaborator.<br>
-I like a play video games on my free time 🎮.<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=LarryIVC&show_icons=true&locale=en" alt="LarryIVC" /></span>
