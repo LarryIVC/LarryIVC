@@ -15,4 +15,4 @@ I like a play video games on my free time 🎮.<br> Check [Mi Certificate](https
 <hr>
 <span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LarryIVC&show_icons=true&locale=en" alt="LarryIVC" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=LarryIVC&show_icons=true&locale=en" alt="LarryIVC" /></span>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=LarryIVC&show_icons=true&locale=en" alt="LarryIVC" padding="5px" /></span>
