@@ -1,6 +1,6 @@
 <img src="Hi I'm Larry Villegas.png" width="100%" heigth="auto">
 
-<span><img align="right" src="./sello.png" alt="Microverse Mark" width="200px" /></span>
+<span><img align="right" src="./sello.png" alt="Microverse Mark" width="200" /></span>
 
 - [x] 🔭 I'm currently studyng at @Microverse Full-Satck Developer.<br> 
 ✨ MICROVERSE ✨ is a software development program that uses pair-programming and project building to teach.
