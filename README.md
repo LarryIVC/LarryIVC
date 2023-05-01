@@ -1,7 +1,7 @@
 <img src="Hi I'm Larry Villegas.png" width="100%" heigth="auto">
 
-<span><img align="right" src="./sello.png" alt="Microverse Mark" width="100" /></span>
-<span><img align="right" src="./JavaScript-Larry.png" alt="Microverse Mark" width="100" /></span>
+<span><img align="right" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70557153" alt="Microverse Mark" width="100" /></span>
+<span><img align="right" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72809627" alt="Microverse Mark" width="100" /></span>
 
 - [x] 🔭 I'm currently studyng at @Microverse Full-Satck Developer.<br> 
 ✨ MICROVERSE ✨ is a software development program that uses pair-programming and project building to teach.
