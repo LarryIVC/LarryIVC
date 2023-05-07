@@ -12,7 +12,10 @@
 - [x] 💬Reach me here: [larry_villegas@hotmail.com](mailto://larry_villegas@hotmail.com)<br>
 
 ⚡ Fun 🎈, happy, enthusiastic, collaborator.<br>
-I like a play video games on my free time 🎮.<br> Check my Certificates [HTML/CSS](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/70557153) [JavaScript](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/72809627)
+I like a play video games on my free time 🎮.<br> Check my Certificates [HTML/CSS](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/70557153)
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/70557153" alt="Thumbnail of certificate" width="70px" />
+[JavaScript](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/72809627)
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/72809627" alt="Thumbnail of certificate" width="70px" />
 <hr>
 <span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LarryIVC&show_icons=true&locale=en" alt="LarryIVC" />
 
