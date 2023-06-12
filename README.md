@@ -2,6 +2,7 @@
 
 <span><img align="right" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70557153" alt="Microverse Mark" width="100" /></span>
 <span><img align="right" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72809627" alt="Microverse Mark" width="100" /></span>
+<span><img align="right" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/75356034" alt="Microverse Mark" width="100" /></span>
 
 - [x] 🔭 I'm currently studyng at @Microverse Full-Satck Developer.<br> 
 ✨ MICROVERSE ✨ is a software development program that uses pair-programming and project building to teach.
@@ -13,9 +14,11 @@
 
 ⚡ Fun 🎈, happy, enthusiastic, collaborator.<br>
 I like a play video games on my free time 🎮.<br> Check my Certificates [HTML/CSS](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/70557153)
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/70557153" alt="Thumbnail of certificate" width="70px" />
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/70557153" alt="Thumbnail of certificate" width="200px" />
 [JavaScript](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/72809627)
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/72809627" alt="Thumbnail of certificate" width="70px" />
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/72809627" alt="Thumbnail of certificate" width="200px" />
+[React Redux](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/75356034)
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/75356034" alt="Thumbnail of certificate" width="200px" />
 <hr>
 <span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LarryIVC&show_icons=true&locale=en" alt="LarryIVC" />
 
