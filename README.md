@@ -13,13 +13,26 @@
 - [x] 💬Reach me here: [larry_villegas@hotmail.com](mailto://larry_villegas@hotmail.com)<br>
 
 ⚡ Fun 🎈, happy, enthusiastic, collaborator.<br>
-I like a play video games on my free time 🎮.<br> Check my Certificates [HTML/CSS](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/70557153)
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/70557153" alt="Thumbnail of certificate" width="200px" />
-[JavaScript](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/72809627)
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/72809627" alt="Thumbnail of certificate" width="200px" />
-[React Redux](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/75356034)
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/75356034" alt="Thumbnail of certificate" width="200px" />
+I like a play video games on my free time 🎮.<br> Check my Certificates:<br/>
+<image 
+       src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/70557153" 
+       alt="Thumbnail of certificate HTML/CSS" 
+       width="200px" 
+       caption="HTML/CSS">
+
+<image 
+       src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/72809627" 
+       alt="Thumbnail of certificate JavaScript" 
+       width="200px" 
+       caption = "JavaScript"/>
+
+<image 
+     src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/75356034" 
+     alt="Thumbnail of certificate React Redux" 
+     width="200px" 
+     caption = "React Redux">
 <hr>
+  
 <span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LarryIVC&show_icons=true&locale=en" alt="LarryIVC" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=LarryIVC&show_icons=true&locale=en" alt="LarryIVC" padding="5px" /></span>
