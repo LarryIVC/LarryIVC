@@ -14,23 +14,9 @@
 
 ⚡ Fun 🎈, happy, enthusiastic, collaborator.<br>
 I like a play video games on my free time 🎮.<br> Check my Certificates:<br/>
-<image 
-       src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/70557153" 
-       alt="Thumbnail of certificate HTML/CSS" 
-       width="200px" 
-       caption="HTML/CSS">
-
-<image 
-       src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/72809627" 
-       alt="Thumbnail of certificate JavaScript" 
-       width="200px" 
-       caption = "JavaScript"/>
-
-<image 
-     src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/75356034" 
-     alt="Thumbnail of certificate React Redux" 
-     width="200px" 
-     caption = "React Redux">
+| HTML/CSS | JAVASCRIPT | REACT REDUX |
+| --- | --- |  --- |
+| <image src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/70557153" alt="Thumbnail of certificate HTML/CSS" width="200px"    caption="HTML/CSS">|<image src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/72809627" alt="Thumbnail of certificate JavaScript"    width="200px" caption = "JavaScript"> | <image src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/75356034" alt="Thumbnail of certificate React Redux" width="200px" caption = "React Redux"> |
 <hr>
   
 <span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LarryIVC&show_icons=true&locale=en" alt="LarryIVC" />
