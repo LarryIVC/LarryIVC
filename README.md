@@ -1,4 +1,5 @@
-<img src="Hi I'm Larry Villegas.png" width="100%" heigth="auto">
+<img src="Hi_larry.png" width="100%" height="auto">
+
 <div style=" float: 'right'">
 <span><img align="top" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70557153" alt="Microverse Mark HTML\CSS" width="100" /></span>
 <span><img align="top" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72809627" alt="Microverse Mark JavaScript" width="100" /></span>
@@ -18,12 +19,19 @@
 </div>
 
 ⚡ Fun 🎈, happy, enthusiastic, collaborator.<br>
-I like play video games on my free time 🎮.<br> Check my Certificates:<br/>
-| HTML/CSS | JAVASCRIPT | REACT REDUX | RUBY SQL | RUBY ON RAILS |
+I like play video games on my free time 🎮.<br> Check my Certificates:
+<br/>
+
+| HTML/CSS | JAVASCRIPT | REACT REDUX | RUBY | RUBY ON RAILS |
 | --- | --- |  --- | --- | --- |
-| <image src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/70557153" alt="Thumbnail of certificate HTML/CSS" width="200px"    caption="HTML/CSS">| <image src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/72809627" alt="Thumbnail of certificate JavaScript"    width="200px" caption = "JavaScript"> | <image src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/75356034" alt="Thumbnail of certificate React Redux" width="200px" caption = "React Redux"> | <image src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/78269909" alt="Thumbnail of certificate Ruby" width="200px" caption = "Ruby"> | <image src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/81191849" alt="Thumbnail of certificate Ruby" width="200px" caption = "Ruby on Rails"> |
+| ![HTML/CSS](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/70557153) | ![JavaScript](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/72809627) | ![React Redux](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/75356034) | ![Ruby](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/78269909) | ![Ruby on Rails](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/81191849) |
+
+
 <hr>
   
-<span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LarryIVC&show_icons=true&locale=en" alt="LarryIVC" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LarryIVC&show_icons=true&locale=en" alt="LarryIVC" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=LarryIVC&show_icons=true&locale=en" alt="LarryIVC" padding="5px" /></span>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=LarryIVC&show_icons=true&locale=en" alt="LarryIVC" padding="5px" />
+
+
+
