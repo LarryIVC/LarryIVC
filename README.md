@@ -33,5 +33,8 @@ I like play video games on my free time 🎮.<br> Check my Certificates:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=LarryIVC&show_icons=true&locale=en" alt="LarryIVC" padding="5px" />
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LarryIVC&" alt="LarryIVC" />
+
+<hr>
 
 
