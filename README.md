@@ -43,9 +43,8 @@
 
 | FULL STACK WEB DEVELOPMENT | 
 | --- |
-| 
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/84931612" width="250">
-|
+| <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/84931612" width="250"> |
+
 <hr>
   
 # 📊 GitHub Stats:
