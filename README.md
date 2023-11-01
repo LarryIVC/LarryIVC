@@ -5,22 +5,25 @@
 
 <div >
       <span>
-            <img align="top" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70557153" alt="Microverse Mark HTML\CSS" width="100" />
+            <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70557153" alt="Microverse Mark HTML\CSS" width="100" />
       </span>
       <span>
-            <img align="top" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72809627" alt="Microverse Mark JavaScript" width="100" />
+            <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72809627" alt="Microverse Mark JavaScript" width="100" />
       </span>
       <span>
-            <img align="bottom" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/75356034" alt="Microverse Mark React Redux" width="100" />
+            <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/75356034" alt="Microverse Mark React Redux" width="100" />
       </span>
       <span>
-            <img align="bottom" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/78269909" alt="Microverse Mark Ruby" width="100" />
+            <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/78269909" alt="Microverse Mark Ruby" width="100" />
       </span>
       <span>
-            <img align="bottom" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/81191849" alt="Microverse Mark Ruby on Rails" width="100" />
+            <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/81191849" alt="Microverse Mark Ruby on Rails" width="100" />
       </span>
       <span>
-            <img align="bottom" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/82740632" alt="Microverse Mark FULL STACK" width="100" />
+            <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/82740632" alt="Microverse Mark FULL STACK" width="100" />
+      </span>      
+      <span>
+            <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/84931612" alt="Microverse Mark FULL STACK WEB DEVELOPMENT" width="100" />
       </span>      
 </div>
 
@@ -36,7 +39,13 @@
 
 | RUBY | RUBY ON RAILS | FULL STACK |
 | --- | --- | --- |
-![Ruby](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/78269909) | ![Ruby on Rails](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/81191849) | ![Full Stack](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/82740632) |
+| ![Ruby](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/78269909) | ![Ruby on Rails](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/81191849) | ![Full Stack](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/82740632) |
+
+| FULL STACK WEB DEVELOPMENT | 
+| --- |
+| 
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/84931612" width="250">
+|
 <hr>
   
 # 📊 GitHub Stats:
